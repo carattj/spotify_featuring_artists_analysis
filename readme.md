@@ -1,11 +1,11 @@
-### Jacopo Caratti, Marco De Liso
+### Jacopo Caratti
 # Spotify Featuring Artists Analysis
-Welcome to our Network Analysis project readme file!
+Welcome to my Network Analysis project readme file!
 
-In this project, we analyze the Spotify featuring artists collaboration network. Here are the steps to successfully run our project.
+In this project, I analyze the Spotify featuring artists collaboration network. Here are the steps to successfully run the project.
 
 ## 1. Download the datasets
-To get started, please download the three datasets we use for our analysis. You can find the links to download the datasets below:
+To get started, please download the three datasets we use for my analysis. You can find the links to download the datasets below:
 
 * [nodes.csv](https://www.kaggle.com/datasets/jfreyberg/spotify-artist-feature-collaboration-network?select=nodes.csv)
 * [edges.csv](https://www.kaggle.com/datasets/jfreyberg/spotify-artist-feature-collaboration-network?select=edges.csv)
@@ -43,4 +43,4 @@ Run the project by executing the `main.py` file:
 ## 6. Outputs
 Upon completion of the project run, you will get two kinds of output. The first one is a terminal output containing runtime information about the project such as timings and network structure. The second one consists of graphical plot images with interesting information and patterns we discovered through our analysis. All the images will be saved in the `./Data/data_visualization` directory.
 
-We hope you find our project insightful and enjoyable!
+I hope you find this project insightful and enjoyable!
